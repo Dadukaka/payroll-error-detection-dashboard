@@ -18,3 +18,4 @@ A Streamlit dashboard to detect payroll errors efficiently.
 
 ## Live Demo
 [Add Streamlit Cloud URL here once deployed]
+plotly
