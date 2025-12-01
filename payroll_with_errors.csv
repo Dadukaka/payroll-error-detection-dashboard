@@ -1,0 +1,11 @@
+Employee ID,Employee Name,Hours Worked,Hourly Rate,Gross Pay,Tax,Net Pay
+101,John Smith,40,25,1000,200,800
+102,Jane Doe,-5,30,150,30,120
+103,Bob Johnson,45,20,900,180,720
+101,Alice Williams,38,28,1064,213,851
+105,Charlie Brown,42,22,924,185,-50
+106,Diana Prince,40,35,1400,280,1120
+107,Eve Anderson,48,25,1200,240,960
+108,Frank Miller,0,30,0,0,0
+109,Grace Lee,-10,27,270,54,216
+110,Henry Davis,44,26,1144,229,915
